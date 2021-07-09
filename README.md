@@ -9,3 +9,6 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 * **Paper** and **Rock** =>**Paper** win
 
 ![](https://media.giphy.com/media/zKJglgEBltRkW6ki59/giphy.gif)
+
+## [Quiz Game](https://github.com/SakshiKhandare/Tkinter-Projects/tree/master/MCQ_Game)
+![](https://github.com/SakshiKhandare/Tkinter-Projects/blob/master/MCQ_Game/Output.png)
