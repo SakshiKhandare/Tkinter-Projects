@@ -161,7 +161,7 @@ root = Tk()
 root.geometry("800x450")
 
 # set the title of the Window
-root.title("GeeksforGeeks Quiz")
+root.title("Quiz")
 
 # get the data from the json file
 with open('D:\GITHUB PROJECTS\Tkinter Projects\MCQ_Game\data.json') as f:
