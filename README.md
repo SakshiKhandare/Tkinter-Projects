@@ -8,7 +8,7 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 * **Rock** and **Scissor** =>**Rock** win
 * **Paper** and **Rock** =>**Paper** win
 
-![](https://media.giphy.com/media/zKJglgEBltRkW6ki59/giphy.gif)
+![](https://media.giphy.com/media/weQSyZytx7A9sj4HHX/giphy.gif)
 
 ## [Quiz Game](https://github.com/SakshiKhandare/Tkinter-Projects/tree/master/MCQ_Game)
 ![](https://github.com/SakshiKhandare/Tkinter-Projects/blob/master/MCQ_Game/Output.png)
