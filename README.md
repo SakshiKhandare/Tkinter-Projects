@@ -12,3 +12,5 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 
 ## [Quiz Game](https://github.com/SakshiKhandare/Tkinter-Projects/tree/master/MCQ_Game)
 ![](https://github.com/SakshiKhandare/Tkinter-Projects/blob/master/MCQ_Game/Output.png)
+
+PS: If you like this, please leave me a star ★
